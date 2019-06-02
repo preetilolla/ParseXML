@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +13,7 @@ namespace ParseXML
         {
             XmlDocument SrcDoc = new XmlDocument();
 
-            SrcDoc.Load("c:\\users\\plolla\\documents\\visual studio 2015\\Projects\\ParseXML\\ParseXML\\INT003ae_FDS_CCW_Personal_Data_012820190815.xml");
+            SrcDoc.Load("c:\\users\\plolla\\documents\\visual studio 2015\\Projects\\ParseXML\\ParseXML\\Sample.xml");
             string xmlcontents = SrcDoc.InnerXml;
 
             var nsmgr = new XmlNamespaceManager(SrcDoc.NameTable);
