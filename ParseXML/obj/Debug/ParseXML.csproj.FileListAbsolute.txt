@@ -1,0 +1,6 @@
+c:\users\plolla\documents\visual studio 2015\Projects\ParseXML\ParseXML\bin\Debug\ParseXML.exe.config
+c:\users\plolla\documents\visual studio 2015\Projects\ParseXML\ParseXML\bin\Debug\ParseXML.exe
+c:\users\plolla\documents\visual studio 2015\Projects\ParseXML\ParseXML\bin\Debug\ParseXML.pdb
+c:\users\plolla\documents\visual studio 2015\Projects\ParseXML\ParseXML\obj\Debug\ParseXML.csprojResolveAssemblyReference.cache
+c:\users\plolla\documents\visual studio 2015\Projects\ParseXML\ParseXML\obj\Debug\ParseXML.exe
+c:\users\plolla\documents\visual studio 2015\Projects\ParseXML\ParseXML\obj\Debug\ParseXML.pdb
